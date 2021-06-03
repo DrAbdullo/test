@@ -1,0 +1,9 @@
+для развертывания проекта необходимо
+1. Установить Laravel
+2. Установить в проект UI  командой composer require larevel/ui
+3. Создать storage link    командой php artisan storage:link
+4. Перенести Git
+5. Настроить Базу Данных 
+6. В файле .env установить зрачение QUEUE_CONNECTION=database и MAIL_MAILER=log (или растроить по своему усмотрению)
+
+7.User Manager: email Manager@mail.com, password: 123456789 
